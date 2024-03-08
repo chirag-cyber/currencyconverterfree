@@ -1,0 +1,23 @@
+{
+  "name": "currencyconverterfree",
+  "version": "1.0.0",
+  "description": "This is a currency converter Npm Package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirag-cyber/currencyconverterfree.git"
+  },
+  "author": "Chirag Chawla",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chirag-cyber/currencyconverterfree/issues"
+  },
+  "homepage": "https://github.com/chirag-cyber/currencyconverterfree#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
